@@ -4,6 +4,7 @@ import (
 	"time"
 )
 
+//node struct
 type node struct {
 	name      string
 	state     string
